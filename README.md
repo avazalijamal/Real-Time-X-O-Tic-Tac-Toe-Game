@@ -4,9 +4,9 @@
 
 ## 🌟 Oyun Rejimləri
 
-✔️ **Süni İntellektə qarşı** – Kompüterə qarşı bacarıqlarınızı sınayın.
-✔️ **Yerində Multiplayer** – Dostunuzla eyni cihazda oynayın.
-✔️ **Online Multiplayer** – Dostlarınızla internet üzərindən real vaxt rejimində rəqabət aparın!
+✔️ **Süni İntellektə qarşı** – Kompüterə qarşı bacarıqlarınızı sınayın. <br/>
+✔️ **Yerində Multiplayer** – Dostunuzla eyni cihazda oynayın. <br/>
+✔️ **Online Multiplayer** – Dostlarınızla internet üzərindən real vaxt rejimində rəqabət aparın! <br/>
 
 ## 🛠️ İstifadə Edilən Texnologiyalar
 
@@ -32,7 +32,7 @@ Sisteminizdə **Node.js** quraşdırılmış olmalıdır.
 
    ```bash
    git clone https://github.com/avazalijamal/Real-Time-X-O-Tic-Tac-Toe-Game.git
-   cd tic-tac-toe-multiplayer
+   cd Real-Time-X-O-Tic-Tac-Toe-Game
    ```
 
 2. Lazımi paketləri quraşdırın:
@@ -44,7 +44,7 @@ Sisteminizdə **Node.js** quraşdırılmış olmalıdır.
 3. Serveri başladın:
 
    ```bash
-   npm start -- --port 3333
+   npm start
    ```
 
 4. Oyunu brauzerdə açın:
