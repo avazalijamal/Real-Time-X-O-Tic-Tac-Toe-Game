@@ -1,0 +1,23 @@
+{
+  "name": "x_o",
+  "version": "1.0.0",
+  "description": "reat time xo game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "run": "nodemon app.js",
+    "build": "pm2 app.js"
+  },
+  "keywords": [
+    "xo",
+    "socket.io"
+  ],
+  "author": "GROUP-G",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}

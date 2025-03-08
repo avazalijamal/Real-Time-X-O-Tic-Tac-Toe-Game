@@ -1,0 +1,29 @@
+
+.atac{
+    background-color: darkturquoise;
+    padding: 10px;
+}
+
+.error{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    color: white;
+}
+
+.success{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    color: white;
+}
+
+.warning{
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    color: white;
+}
